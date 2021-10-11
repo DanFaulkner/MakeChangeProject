@@ -114,7 +114,7 @@ public class MakeChange {
 		
 		if (bill5 > 1) {
 			System.out.println(bill5 + " five dollar bills");
-		} else if (bill10 == 1) {
+		} else if (bill5 == 1) {
 			System.out.println(bill5 + " five dollar bill");
 		}
 		
